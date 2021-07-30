@@ -1,6 +1,6 @@
 ### here are the resource for learning GCC tool chain and Make files
 - [ ] https://www.coursera.org/lecture/introduction-embedded-systems/1-introduction-to-build-systems-using-gnu-toolsets-7KkWV 
--     [lesson from coursera course]
+      [lesson from coursera course]
 - [ ] https://www.tenouk.com/ModuleW.html [very good resource]
 - [ ] http://www.it.uc3m.es/pbasanta/asng/course_notes/compiler_en.html [most used options in gcc compiler, good resource]
 - [ ] https://www.toptal.com/c-plus-plus/c-plus-plus-understanding-compilation [how c++ works, understand compilation]
