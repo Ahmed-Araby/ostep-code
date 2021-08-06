@@ -13,3 +13,4 @@
 - [ ] https://passlab.github.io/ITSC3181/notes/lecture02_CompilationAssemblingLinkingProgramExecution.pdf [another random slides]
 - [ ] https://www.youtube.com/watch?v=dOfucXtyEsU [talk about how to get to main() ]
 - [ ] https://link.springer.com/content/pdf/bbm%3A978-1-4302-0219-6%2F1.pdf [big book on how to us gcc compilers] 
+- [X] https://medium.datadriveninvestor.com/compilation-process-db17c3b58e62
